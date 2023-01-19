@@ -25,9 +25,21 @@ body{
     width: 100%;
     text-align: right;
 }
-.color1{}
-.color2{}
-.color3{}
+.color1{
+  background: #C9DEF1;
+    padding: 10px;
+    border: solid 1px;
+}
+.color2{
+  background: #4400f3;
+    padding: 10px;
+    border: solid 1px;
+}
+.color3{
+  background: F1D4C9;
+    padding: 10px;
+    border: solid 1px;
+}
 
 .menu-title{
   text-align: center;
