@@ -10,6 +10,8 @@ body{
 
 .row{
   width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .menu-title{
@@ -58,6 +60,9 @@ body{
 
 #title-three{
   background-color: #E5D198;
+}
+col-lg-4{
+  
 }
 
 /* Simple Responsive Framework. */
