@@ -14,7 +14,12 @@ body{
   flex-wrap: wrap;
 }
 .col{
-  max-width:33%;
+  max-width: 33%;
+  background: #ccc;
+  padding: 10px;
+  margin: 2px;
+  border: solid 2px;
+  
 }
 
 .menu-title{
