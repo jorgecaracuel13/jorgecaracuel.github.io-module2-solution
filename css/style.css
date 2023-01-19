@@ -13,6 +13,9 @@ body{
   display: flex;
   flex-wrap: wrap;
 }
+.col{
+  max-width:33%;
+}
 
 .menu-title{
   text-align: center;
