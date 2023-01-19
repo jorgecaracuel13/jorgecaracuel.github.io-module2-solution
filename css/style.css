@@ -21,6 +21,13 @@ body{
   border: solid 2px;
   
 }
+.titulo-right {
+    width: 100%;
+    text-align: right;
+}
+.color1{}
+.color2{}
+.color3{}
 
 .menu-title{
   text-align: center;
